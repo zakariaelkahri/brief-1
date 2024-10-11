@@ -15,7 +15,18 @@ body {
     padding: 20px;
 }
 
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 /* Navigation Bar */
+.connectlogo{
+    width: 80px;
+    border-radius: 50px;
+
+}
 nav {
     background-color: #333;
     color: white;
